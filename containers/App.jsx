@@ -1,7 +1,7 @@
 import React from 'react';
 import NewsFeed from '../components/NewsFeed';
 import Header from '../components/Header';
-
+import '../style/newscard.scss';
 export default class App extends React.Component{
     constructor(props){
         super(props);
@@ -37,6 +37,7 @@ export default class App extends React.Component{
 
             if(!this.state.loaded){
                 return(<div className="loading">
+                <div className="lds-ripple"><div></div><div></div></div><br/>
                  Getting your country!
                 </div>);
             }else{

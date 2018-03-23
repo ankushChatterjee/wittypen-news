@@ -37,7 +37,7 @@ export default class NewsFeed extends React.Component{
         }else{
             console.log(this.state);
             return(
-                <div> <div uk-spinner="true"></div> Loading News</div>
+                <div className="loading"> <div className="lds-ripple"><div></div><div></div></div>  Loading News</div>
             );
         }
     }
