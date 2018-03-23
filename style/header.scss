@@ -1,0 +1,19 @@
+@import 'variables';
+
+header{
+    box-shadow: 0px 0px 4px 0px $color-shadow;
+}
+
+.heading{
+    background: $color-secondary;
+    padding: 0.5em;
+    font-size:1.5em;
+    color: white;
+}
+.subhead{
+    background: $color-primary;
+    padding: 0.4em;
+    font-size: 1.2em;
+    color:white;
+    width: 100%;
+}
