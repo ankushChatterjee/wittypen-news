@@ -20,11 +20,11 @@ The JavaScript is written is ES6.
 
 #  Screenshots
 ### Desktop
-![alt text](https://raw.githubusercontent.com/ankushChatterjee/wittypen-news/master/screenshots/feed.png "200")
+![alt text](https://raw.githubusercontent.com/ankushChatterjee/wittypen-news/master/screenshots/feed.png "Desktop")
 
 ### Mobile
 ![alt text](https://raw.githubusercontent.com/ankushChatterjee/wittypen-news/master/screenshots/iphone.png "Mobile")
 
 ### Loading Screen
-![alt text](https://raw.githubusercontent.com/ankushChatterjee/wittypen-news/master/screenshots/loading.png "10,000")
+![alt text](https://raw.githubusercontent.com/ankushChatterjee/wittypen-news/master/screenshots/loading.png "Loading Screen")
 
