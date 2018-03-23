@@ -20,11 +20,14 @@ The JavaScript is written is ES6.
 
 #  Screenshots
 ### Desktop
-![alt text](https://raw.githubusercontent.com/ankushChatterjee/wittypen-news/master/screenshots/feed.png "Desktop")
+#### When mouse is hovered over "Read More" in the card
+![alt text](https://raw.githubusercontent.com/ankushChatterjee/wittypen-news/master/screenshots/feed.png "200")
 
 ### Mobile
-![alt text](https://raw.githubusercontent.com/ankushChatterjee/wittypen-news/master/screenshots/iphone.png "Mobile")
+![alt text](https://raw.githubusercontent.com/ankushChatterjee/wittypen-news/master/screenshots/iphone1.PNG "Mobile") 
+
+#### When a card is tapped
+![alt text](https://raw.githubusercontent.com/ankushChatterjee/wittypen-news/master/screenshots/iphone2.PNG "Mobile")
 
 ### Loading Screen
-![alt text](https://raw.githubusercontent.com/ankushChatterjee/wittypen-news/master/screenshots/loading.png "Loading Screen")
-
+![alt text](https://raw.githubusercontent.com/ankushChatterjee/wittypen-news/master/screenshots/loading.png "10,000")
