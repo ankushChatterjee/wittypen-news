@@ -26,13 +26,13 @@ export default class NewsFeed extends React.Component{
     }
     render(){
         let newsElements = this.state.news.map(item=>{
-            return (<NewsCard key={item.url} imgURL={item.urlToImage} source={item.source.name} title={item.title} desc={item.description} link={item.url} author={item.author} />);
+            return (<NewsCard key={item.url} imgURL={item.urlToImage} publishedAt={item.publishedAt} source={item.source.name} title={item.title} desc={item.description} link={item.url} author={item.author} />);
         });
 
         if(this.state.loaded){
-            return(<div className="grid">
+            return(<div className="wrapper"><div className="grid">
                 {newsElements}
-                </div>
+                </div></div>
             );
         }else{
             console.log(this.state);
